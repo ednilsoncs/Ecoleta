@@ -1,8 +1,13 @@
 import React from 'react';
 import './App.css';
+import Routes from './routes';
 
 const App: React.FC = () => {
-  return <h1> Hello word</h1>;
+  return (
+    <div>
+      <Routes />
+    </div>
+  );
 };
 
 export default App;
