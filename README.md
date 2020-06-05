@@ -1,12 +1,11 @@
 # Ecoleta
 
 
-**&copy; <img src="imgs/rocketseat.svg" alt="rocketseat" height="20"> [Rocketseat](https://rocketseat.com.br/)**
 
 **Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
 
 ## Licença
-[MIT](https://github.com/ednilsoncs/Ecoleta/master/LICENSE)
+[MIT](https://github.com/EdnilsonCS/Ecoleta/blob/master/LICENSE)
 
 ---
 
