@@ -92,12 +92,12 @@ const Detail = () => {
       <View style={styles.footer}>
         <RectButton style={styles.button} onPress={handleSendWhatsapp}>
           <FontAwesome name="whatsapp" size={20} color="#FFF" />
-          <Text style={styles.button}>Whatsapp</Text>
+          <Text style={styles.buttonText}>Whatsapp</Text>
         </RectButton>
 
         <RectButton style={styles.button} onPress={handleComposeMail}>
-          <FontAwesome name="mail" size={20} color="#FFF" />
-          <Text style={styles.button}>E-mail</Text>
+          <Icon name="mail" size={20} color="#FFF" />
+          <Text style={styles.buttonText}>E-mail</Text>
         </RectButton>
       </View>
     </SafeAreaView>
