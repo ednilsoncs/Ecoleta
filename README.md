@@ -1,6 +1,6 @@
 <h1 align="center">Ecoleta ( Next Level Week) </h1>
 
-<h2 align="center"> Aplicação para conectar pessoas a pontos de coletas de materíais recicláveis </h2>
+<h2 align="center"> Aplicação para conectar pessoas a pontos de coletas de materiais recicláveis </h2>
 
 
 **Instrutor: [Diego Fernandes](https://github.com/diego3g) | CTO Rocketseat**
