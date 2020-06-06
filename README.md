@@ -1,4 +1,4 @@
-<h1 align="center">Ecoleta ( Next Level Week) </h1>
+<h1 align="center">Ecoleta ( Next Level Week ) </h1>
 
 <h2 align="center"> Aplicação para conectar pessoas a pontos de coletas de materiais recicláveis </h2>
 
