@@ -19,8 +19,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto feito durante a 1ª edição da Semana Next Level Week, ocorrida entre 01/06 e 05/06, foi construido o aplicativo mobile, a verção web e o backend da aplicação. Para isso foi usado tecnologias modernas como React, React Native e Node.JS
 
-A aplicação e o site foi contruido baseado no [layout](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1)
+## 🔖 Layout
 
+A aplicação e o site foi contruido baseado no [layout](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-(Booster)?node-id=0%3A1)
 
 ## :memo: Licença
 
